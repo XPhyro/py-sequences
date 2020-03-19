@@ -1,7 +1,7 @@
 # Sequence
 Solutions to the Gamow-Stern Elevator Problem:
 
-$a(n) = \left\lceil{\frac{\log_10 5}{\log_10 {1 + \frac{2}{n - 2}}}}\right\rceil\ for\ n\ \geq 3.$
+$a(n) = \left\lceil{\frac{\log_{10}(5)}{\log_{10}{(1 + \frac{2}{n - 2})}}}\right\rceil\ for\ n\ \geq 3.$
 
 See [A056847](https://oeis.org/A056847).
 
