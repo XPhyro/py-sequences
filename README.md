@@ -1,5 +1,5 @@
 # Summary
-Calculation of some different/random series with Python.
+Calculation of some different/random sequences with Python.
 
 # Requisites
-Some of the series might use external modules, see their respective README files or their imports.
+Some of the sequences might use external modules, see their respective README files or their imports.
