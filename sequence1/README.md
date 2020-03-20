@@ -6,6 +6,6 @@ Solutions to the Gamow-Stern Elevator Problem:
 See [A280471](https://oeis.org/A280471).
 
 # Requisites
-Written and tested with Python 3.8.1.
+Written and tested with Python 3.8.2.
 
 [input_helper](https://github.com/XPhyro/input_helper) is used to get input.
