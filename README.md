@@ -13,3 +13,4 @@ Some of the sequences might use external modules, see their respective README fi
 - 5 - [A253191](https://oeis.org/A253191): Decimal expansion of <img src="/tex/3e5aea3dac8ef77a0eb592c5fdebaaba.svg?invert_in_darkmode&sanitize=true" align=middle width=49.612013549999986pt height=29.534320200000014pt/>.
 
 <img src="/tex/13e13beee0d35fba738c53960aff9ccb.svg?invert_in_darkmode&sanitize=true" align=middle width=48.79009904999999pt height=26.76175259999998pt/>
+<img src="/tex/bdd5af424673d9dd5d5a4bd679d014ee.svg?invert_in_darkmode&sanitize=true" align=middle width=48.79009904999999pt height=26.76175259999998pt/>
