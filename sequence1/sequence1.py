@@ -2,8 +2,8 @@
 
 import time
 import datetime
-import input_helper as ih
 import math
+import input_helper as ih
 
 n = ih.get_int_rng("How many terms of the sequence should be computed?", low=3) 
 

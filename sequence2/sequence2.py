@@ -2,8 +2,8 @@
 
 import time
 import datetime
-import input_helper as ih
 import math
+import input_helper as ih
 
 n = ih.get_pint("How many terms of the sequence should be computed?") 
 
