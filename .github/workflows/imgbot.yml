@@ -7,7 +7,7 @@ jobs:
     runs-on: ubuntu-latest
     name: Merge
     steps:
-    - name: Merge imgbot
+    - name: PR Merge Bot
       uses: squalrus/merge-bot@v0.4.1
       if: github.actor == 'imgbot[bot]'
       with:
