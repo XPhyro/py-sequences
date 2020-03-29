@@ -4,7 +4,7 @@ Last digit of <img src="/sequence2/tex/b4ad89f6e6010b58fee7a0ecfe8b9daf.svg?inve
 See [A056849](https://oeis.org/A056849).
 
 # Comments
-First 21 terms are repeated throughout.
+First 20 terms are repeated throughout.
 
 # Requisites
 Written and tested with Python 3.8.2.
