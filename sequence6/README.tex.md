@@ -1,5 +1,5 @@
 # Sequence
-Riordan array, $\frac{1}{1-x^2}, \frac{x}{1-x^2}$.
+Riordan array, $(\frac{1}{1-x^2}, \frac{x}{1-x^2})$.
 
 See [A168561](https://oeis.org/A168561).
 
