@@ -4,7 +4,7 @@ Partial sums of central numbers of a Moebius-binomial triangle.
 See [A105598](https://oeis.org/A105598).
 
 # Comments
-Implementation does not produce correct output.
+Implementation, although being close, does not produce correct output.
 
 # Requisites
 Written and tested with Python 3.8.2.
