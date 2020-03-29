@@ -11,4 +11,4 @@ Some of the sequences might use external modules, see their respective README fi
 - 3 - [A253188](https://oeis.org/A253188): Minimal positive integer $k$ such that $n^n \geq (n-k)^{n+k)$.
 - 4 - [A105598](https://oeis.org/A105598): Partial sums of central numbers of a Moebius-binomial triangle.
 - 5 - [A253191](https://oeis.org/A253191): Decimal expansion of $\log^2(2)$.
-- 6 - [A168561](https://oeis.org/A168561): Riordan array, $(\frac{1}{1-x^2}, \frac{x}{1-x^2})$.
+- 6 - [A049310](https://oeis.org/A049310): Triangle of coefficients of Chebyshev's $S(n, x)\coloneqq U(n,\frac{x}{2})$ polynomials (exponents in increasing order). 

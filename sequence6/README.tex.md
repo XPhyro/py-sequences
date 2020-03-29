@@ -1,7 +1,7 @@
 # Sequence
-Riordan array, $(\frac{1}{1-x^2}, \frac{x}{1-x^2})$.
+Triangle of coefficients of Chebyshev's $S(n, x)\coloneqq U(n,\frac{x}{2})$ polynomials (exponents in increasing order).
 
-See [A168561](https://oeis.org/A168561).
+See [A049310](https://oeis.org/A049310)
 
 # Requisites
 Written and tested with Python 3.8.2.
