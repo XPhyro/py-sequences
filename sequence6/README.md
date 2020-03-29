@@ -1,5 +1,5 @@
 # Sequence
-Triangle of coefficients of Chebyshev's <img src="/sequence6/tex/ce45bc0f40c907630957da512f707493.svg?invert_in_darkmode&sanitize=true" align=middle width=104.75424134999997pt height=24.65753399999998pt/> polynomials (exponents in increasing order).
+Triangle of coefficients of Chebyshev's <img src="/sequence6/tex/0a35053be318af156d558d9177d8669d.svg?invert_in_darkmode&sanitize=true" align=middle width=131.23809434999998pt height=24.65753399999998pt/> polynomials (exponents in increasing order).
 
 See [A049310](https://oeis.org/A049310)
 
