@@ -1,5 +1,5 @@
 # Sequence
-Minimal positive integer $k$ such that $n^n \geqslant (n-k)^{n+k)$.
+Minimal positive integer $k$ such that $n^n \geq (n-k)^{n+k)$.
 
 See [A253188](https://oeis.org/A253188).
 
