@@ -13,3 +13,4 @@ Some of the sequences might use external modules, see their respective README fi
 - 5 - [A253191](https://oeis.org/A253191): Decimal expansion of $\log^2(2)$.
 
 $\log(2)^2$
+$\log(3)^3$
