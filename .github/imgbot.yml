@@ -11,8 +11,8 @@ jobs:
       if: github.actor == 'imgbot[bot]'
       with:
         github-token: "${{ secrets.GITHUB_TOKEN }}"
-    - name: Merge
-      uses: squalrus/merge-bot@v0.2.0
+    - name: PR Merge Bot
+      uses: squalrus/merge-bot@v0.4.1
       if: github.actor == 'imgbot[bot]'
       with:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

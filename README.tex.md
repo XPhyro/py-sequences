@@ -10,3 +10,4 @@ Some of the sequences might use external modules, see their respective README fi
 - 2 - [A056849](https://oeis.org/A056849): Last digit of $n^n$.
 - 3 - [A253188](https://oeis.org/A253188): Minimal positive integer $k$ such that $n^n \geq (n-k)^{n+k)$.
 - 4 - [A105598](https://oeis.org/A105598): Partial sums of central numbers of a Moebius-binomial triangle.
+- 5 - [A253191](https://oeis.org/A253191): Decimal expansion of $\log^2(2)$.
