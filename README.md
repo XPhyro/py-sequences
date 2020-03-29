@@ -11,6 +11,4 @@ Some of the sequences might use external modules, see their respective README fi
 - 3 - [A253188](https://oeis.org/A253188): Minimal positive integer <img src="/tex/63bb9849783d01d91403bc9a5fea12a2.svg?invert_in_darkmode&sanitize=true" align=middle width=9.075367949999992pt height=22.831056599999986pt/> such that <img src="/tex/9941942bee5490cb501b934200cf83ee.svg?invert_in_darkmode&sanitize=true" align=middle width=123.17175089999999pt height=29.190975000000005pt/>.
 - 4 - [A105598](https://oeis.org/A105598): Partial sums of central numbers of a Moebius-binomial triangle.
 - 5 - [A253191](https://oeis.org/A253191): Decimal expansion of <img src="/tex/3e5aea3dac8ef77a0eb592c5fdebaaba.svg?invert_in_darkmode&sanitize=true" align=middle width=49.612013549999986pt height=29.534320200000014pt/>.
-
-<img src="/tex/13e13beee0d35fba738c53960aff9ccb.svg?invert_in_darkmode&sanitize=true" align=middle width=48.79009904999999pt height=26.76175259999998pt/>
-<img src="/tex/bdd5af424673d9dd5d5a4bd679d014ee.svg?invert_in_darkmode&sanitize=true" align=middle width=48.79009904999999pt height=26.76175259999998pt/>
+- 6 - [A168561](https://oeis.org/A168561): Riordan array, <img src="/tex/737170eb7aadce21e92a1af30878bf1c.svg?invert_in_darkmode&sanitize=true" align=middle width=72.6440847pt height=27.77565449999998pt/>.
