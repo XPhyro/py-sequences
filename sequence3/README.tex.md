@@ -1,8 +1,6 @@
 # Sequence
 Minimal positive integer $k$ such that $n^n \geq (n-k)^{n+k)$.
 
-Trigger TeX rendering.
-
 See [A253188](https://oeis.org/A253188).
 
 # Requisites
