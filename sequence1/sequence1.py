@@ -15,7 +15,7 @@ print(f"Initiated the computation on {datetime.datetime.now()}.\nSumming...")
 t0 = time.time()
 
 log5 = math.log10(5)
-for i in range(3, n):
+for i in range(3, n + 3):
     s.append(math.ceil(log5 / math.log10(1 + 2 / (i - 2))))
 
 t1 = time.time()

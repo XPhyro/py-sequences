@@ -14,7 +14,7 @@ print(f"Initiated the computation on {datetime.datetime.now()}.\nSumming...")
 
 t0 = time.time()
 
-for i in range(2, n):
+for i in range(2, n + 2):
     k = s[len(s) - 1]
     while True:
         lhs = i ** i

@@ -17,7 +17,7 @@ print(f"Initiated the computation on {datetime.datetime.now()}.\nSumming...")
 
 t0 = time.time()
 
-for i in range(3, n):
+for i in range(3, n + 3):
     a = 0
     for j in range(2, i + 1):
         a += sp.binom(abs(m(j)), abs(m(math.floor(j / 2))))

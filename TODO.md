@@ -13,3 +13,4 @@
 - [ ] [A037027](https://oeis.org/A037027)
 - [ ] [A049310](https://oeis.org/A049310)
 - [ ] [A293290](https://oeis.org/A293290)
+- [ ] [A008683](https://oeis.org/A008683)

@@ -14,7 +14,7 @@ print(f"Initiated the computation on {datetime.datetime.now()}.\nSumming...")
 
 t0 = time.time()
 
-for i in range(1, n):
+for i in range(1, n + 1):
     s.append(i ** i % 10)
 
 t1 = time.time()
