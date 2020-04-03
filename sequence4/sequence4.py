@@ -6,7 +6,7 @@ import math
 import scipy.special as sp
 import input_helper as ih
 
-n = ih.get_pint("How many terms of the sequence should be computed?") 
+n = ih.get_pint("How many terms of the sequence should be computed?")
 
 s = []
 # adapted from: https://codegolf.stackexchange.com/q/69993
@@ -26,7 +26,9 @@ for i in range(3, n + 3):
 
 t1 = time.time()
 
-print(f"Completed the computation on {datetime.datetime.fromtimestamp(t1)}.\nWriting the results to the file \"sequence\".")
+print(
+    f'Completed the computation on {datetime.datetime.fromtimestamp(t1)}.\nWriting the results to the file "sequence".'
+)
 
 s = str(s)
 

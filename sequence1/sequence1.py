@@ -5,7 +5,7 @@ import datetime
 import math
 import input_helper as ih
 
-n = ih.get_int_rng("How many terms of the sequence should be computed?", low=3) 
+n = ih.get_int_rng("How many terms of the sequence should be computed?", low=3)
 
 s = []
 
@@ -20,7 +20,9 @@ for i in range(3, n + 3):
 
 t1 = time.time()
 
-print(f"Completed the computation on {datetime.datetime.fromtimestamp(t1)}.\nWriting the results to the file \"sequence\".")
+print(
+    f'Completed the computation on {datetime.datetime.fromtimestamp(t1)}.\nWriting the results to the file "sequence".'
+)
 
 s = str(s)
 

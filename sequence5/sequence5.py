@@ -5,7 +5,7 @@ import datetime
 import mpmath as mp
 import input_helper as ih
 
-n = ih.get_pint("How many terms of the sequence should be computed?") 
+n = ih.get_pint("How many terms of the sequence should be computed?")
 
 mp.mp.dps = n
 
@@ -18,7 +18,9 @@ a = mp.ln(2) ** 2
 
 t1 = time.time()
 
-print(f"Completed the computation on {datetime.datetime.fromtimestamp(t1)}.\nWriting the results to the file \"sequence\".")
+print(
+    f'Completed the computation on {datetime.datetime.fromtimestamp(t1)}.\nWriting the results to the file "sequence".'
+)
 
 s = str([int(i) for i in str(a)[2:]])
 
