@@ -1,5 +1,5 @@
 # Sequence
-Nearest integer to $n - \sqrt(n)$.
+Nearest integer to $n - \sqrt{n}$.
 
 See [A056847](https://oeis.org/A056847).
 
