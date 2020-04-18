@@ -10,3 +10,5 @@ Implementation, although being close, does not produce correct output.
 Written and tested with Python 3.8.2.
 
 [input_helper](https://github.com/XPhyro/input_helper) is used to get input.
+
+[scipy](https://www.scipy.org/) is used to compute binomials and combinations.
