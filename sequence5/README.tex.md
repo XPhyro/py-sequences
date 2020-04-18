@@ -7,3 +7,4 @@ See [A253191](https://oeis.org/A253191).
 Written and tested with Python 3.8.2.
 
 [input_helper](https://github.com/XPhyro/input_helper) is used to get input.
+[mpmath](http://mpmath.org/) is used to compute natural logarithms.
