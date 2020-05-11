@@ -1,5 +1,5 @@
 # Sequence
-A variation on {[A002321](https://oeis.org/A002321): Mertens's function: Sum_{k=1..n} mu(k), where mu is the Moebius function A008683. (Formerly M0102 N0038)}.
+A variation on {[A002321](https://oeis.org/A002321): Mertens's function: $\sum_{k=1}^{n}mu(k)$, where mu is the Moebius function A008683. (Formerly M0102 N0038)}.
 
 See [A Prime Surprise (Mertens Conjecture) - Numberphile](https://www.youtube.com/watch?v=uvMGZb0Suyc).
 
