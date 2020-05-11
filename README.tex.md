@@ -11,4 +11,5 @@ Some of the sequences might use external modules, see their respective README fi
 - 3 - [A253188](https://oeis.org/A253188): Minimal positive integer $k$ such that $n^n \geq (n-k)^{n+k}$.
 - 4 - [A105598](https://oeis.org/A105598): Partial sums of central numbers of a Moebius-binomial triangle.
 - 5 - [A253191](https://oeis.org/A253191): Decimal expansion of $\log^2(2)$.
-- 6 - [A049310](https://oeis.org/A049310): Triangle of coefficients of Chebyshev's $S(n, x):=U(n,\frac{x}{2})$ polynomials (exponents in increasing order). 
+- 6 - [A049310](https://oeis.org/A049310): Triangle of coefficients of Chebyshev's $S(n, x):=U(n,\frac{x}{2})$ polynomials (exponents in increasing order). UNFINISHED
+- 7 - A variation on {[A002321](https://oeis.org/A002321): Mertens's function: Sum_{k=1..n} mu(k), where mu is the Moebius function A008683. (Formerly M0102 N0038)}, see [A Prime Surprise (Mertens Conjecture) - Numberphile](https://www.youtube.com/watch?v=uvMGZb0Suyc).
