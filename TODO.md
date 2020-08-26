@@ -15,3 +15,5 @@
 - [ ] [A293290](https://oeis.org/A293290)
 - [ ] [A008683](https://oeis.org/A008683)
 - [ ] [A056469](https://oeis.org/A056469)
+- [ ] [A003001](https://oeis.org/A003001)
+- [ ] [A006050](https://oeis.org/A006050)
